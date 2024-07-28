@@ -1,7 +1,7 @@
 ### Timeplus Enterprise Data Stream Processing Architecture
 ## HOW TO RUN
-- Make the bootstrap_infrastructure.sh script executable by `sudo chmod +x bootstrap_infrastructure.sh`
-- Run it `./bootstrap_infrastructure.sh`
+- Make the `bootstrap_infrastructures.sh` script executable by `sudo chmod +x bootstrap_infrastructures.sh`
+- Run it `./bootstrap_infrastructures.sh`
 - The script:
     -   Downloads the mentioned version on timeplus enterprise and starts its services after extraction
     -   Creates a local python environment to create infrastructures and feed data based on src/builders/
