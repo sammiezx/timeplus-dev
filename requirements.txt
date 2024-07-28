@@ -1,0 +1,4 @@
+requests
+proton-driver
+pycaret
+python-dotenv
